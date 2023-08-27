@@ -88,7 +88,6 @@
 				D074C7292A96159E0097D4C2 /* Assets.xcassets */,
 				D074C72B2A96159E0097D4C2 /* LaunchScreen.storyboard */,
 				D074C72E2A96159E0097D4C2 /* Info.plist */,
-				D0C502602A975DEA00ACC721 /* README.md */,
 			);
 			path = "Storm viewer Project1";
 			sourceTree = "<group>";
